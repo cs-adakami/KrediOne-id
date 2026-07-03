@@ -1,0 +1,6 @@
+body{margin:0;font-family:Arial;background:#0b1220;color:#fff}
+.header{text-align:center;padding:20px}
+.hero{text-align:center;padding:20px}
+.footer{text-align:center;padding:20px}
+.wa{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);
+background:#25D366;padding:14px 20px;border-radius:50px;color:#fff;text-decoration:none}
